@@ -1,1 +1,1 @@
-Assignment 3.1 Creating a README.txt file and syncing with GitHub.This is an additional line of text for my second commit.
+Assignment 3.1 Creating a README.txt file and syncing with GitHub.This is an additional line of text for my second commit.And how about one more line of text and one more commit, making it three. 
